@@ -1,4 +1,4 @@
-![name gif](https://drive.google.com/file/d/1SS8lEAWF1XBExpsvwADxr7nP0iam-F4b/view?usp=sharing)
+
 
 # Chamuditha gunawardene
 [![An image of @chamuditha00's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chamuditha00)](https://holopin.io/@chamuditha00)
