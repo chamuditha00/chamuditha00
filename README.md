@@ -22,3 +22,7 @@
 
 
 
+![Overview Card](https://raw.githubusercontent.com/chamuditha00/git-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Overview Card](https://raw.githubusercontent.com/chamuditha00/git-stats/master/generated/overview.svg#gh-light-mode-only)
+![Stats Card](https://raw.githubusercontent.com/chamuditha00/git-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats Card](https://raw.githubusercontent.com/chamuditha00/git-stats/master/generated/languages.svg#gh-light-mode-only)
