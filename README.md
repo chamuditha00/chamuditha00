@@ -3,7 +3,7 @@
 # Chamuditha gunawardene
 [![An image of @chamuditha00's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chamuditha00)](https://holopin.io/@chamuditha00)
 <h1 align="center">Hi 👋, I'm chamuditha</h1>
-<h3 align="center">A 23-year-old undergraduate student in computer science at the Faculty of Computing and Technology.I am passionate about leveraging technology to make a positive impact on the world. With a proven track record of leadership and achievements, I am dedicated to both academic and extracurricular success. Committed to community service, I strive to utilize my skills to uplift others and contribute to the betterment of society. My ultimate objective is to succeed in life and provide innovative thoughts to the world.</h3>
+<h3 align="center">A 25-year-old undergraduate student in computer science at the Faculty of Computing and Technology.I am passionate about leveraging technology to make a positive impact on the world. With a proven track record of leadership and achievements, I am dedicated to both academic and extracurricular success. Committed to community service, I strive to utilize my skills to uplift others and contribute to the betterment of society. My ultimate objective is to succeed in life and provide innovative thoughts to the world.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamuditha00" alt="chamuditha00" /></a> </p>
 
